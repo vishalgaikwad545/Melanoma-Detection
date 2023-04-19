@@ -38,7 +38,22 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 ## Problem statement
 </font>  
 
->####  In the skin biopsy, the dermatologist takes some part of the skin lesion and examines it under the microscope. The current process takes almost a week or more, starting from getting a dermatologist appointment to getting a biopsy report. The aims to shorten the current gap to just a couple of days by providing the predictive model. The approach uses Convolutional Neural Network (CNN) to classify nine types of skin cancer from outlier lesions images. This reduction of a gap has the opportunity to impact millions of people positively.
+####  Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+
+####  The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
+
+
+####  The data set contains the following diseases:
+
+>####  Actinic keratosis
+>####  Basal cell carcinoma
+>####  Dermatofibroma
+>####  Melanoma
+>####  Nevus
+>####  Pigmented benign keratosis
+>####  Seborrheic keratosis
+>####  Squamous cell carcinoma
+>####  Vascular lesion
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
